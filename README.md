@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hola 👋, Soy Máximo Amore :smiley:</h1>
+<h3 align="center">Soy un full-stack developer de Argentina!</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Actualmente me encuentro en un **curso de Java**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Mis lenguages favoritos son **Php, Css3 & JS**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 Busco participar en **proyectos front-end & back-end**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 Donde contactarme: **maxiamorerc@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Que tipos de proyectos me gustan: **las tiendas online, sitios autoadministrables...y por supuesto las landing page**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -48,7 +48,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
-
+<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 ------
 
 [BrantLauro](https://github.com/BrantLauro)
