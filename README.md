@@ -49,7 +49,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
 <script src="https://gist.github.com/rxaviers/7360908.js"></script>
-------
 
 [BrantLauro](https://github.com/BrantLauro)
 
