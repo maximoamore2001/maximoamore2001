@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Máximo Amore :smiley:</h1>
+<h1 align="center">Hola , Soy Máximo Amore 👋</h1>
 <h3 align="center">Soy un full-stack developer de Argentina!</h3>
 
 - 🔭 Actualmente me encuentro en un **curso de Java**
